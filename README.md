@@ -1,12 +1,12 @@
 # KSU_CodingTest
 KSU_Data_Munging_Kata
 
-IDE used : Eclipse
+1. IDE used : Eclipse
 
-Language used : Python
+2. Language used : Python
 
-replace open("C:\\Users\\s528358\\eclipse-workspace\\Data_Munging_Kata\\weather.txt") with open(location of the input file)
+3. replace open("C:\\Users\\s528358\\eclipse-workspace\\Data_Munging_Kata\\weather.txt") with open(location of the input file)
 
-values in Celsius converted to Fahrenheit assumed to be integer
+4. values in Celsius converted to Fahrenheit assumed to be integer
 
-user will be asked to enter the value of N
+5. user will be asked to enter the value of N
