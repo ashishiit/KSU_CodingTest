@@ -1,5 +1,8 @@
 # KSU_CodingTest
 KSU_Data_Munging_Kata
+
+IDE used : Eclipse
+
 Language used : Python
 
 replace open("C:\\Users\\s528358\\eclipse-workspace\\Data_Munging_Kata\\weather.txt") with open(location of the input file)
